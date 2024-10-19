@@ -1,0 +1,25 @@
+/* .container{
+    height: 50%;
+    border:2px solid white; }*/
+
+form{
+    height:280px;
+    width:220px;
+    background-color: antiquewhite;
+    /* justify-content: center; */
+    align-items: centre;
+    transform:translate(75%, 50% );
+    border-radius:8px;
+}
+
+.sign-btn{
+    background-color: aliceblue;
+    font-size: medium;
+    border-radius: 4px;
+}
+
+.sign-btn:hover{
+    color:white;
+    background: green;
+    cursor: pointer;
+}
