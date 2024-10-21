@@ -30,8 +30,8 @@ const App = () =>{
                 image="https://via.placeholder.com/200"
             />
             <Card
-                name="Amrendra Yadav"
-                email="amrendrayd3@gmail.com"
+                name="Richa kumari"
+                email="richakumari3@gmail.com"
                 image="https://via.placeholder.com/200"
             />
 
